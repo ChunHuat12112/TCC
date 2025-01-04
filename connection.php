@@ -1,7 +1,7 @@
 <?php
     $servername = "localhost";
     $username = "root"; 
-    $password = "";     
+    $password = "123";     
     $dbname = "tcc_project"; 
 
     $conn = mysqli_connect($servername, $username, $password, $dbname);
